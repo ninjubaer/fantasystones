@@ -1,0 +1,30 @@
+#top {
+    text-align: center;
+    }
+
+
+
+    #navigation a {
+        padding: 8px;
+        color: blue;
+        
+    }
+    #navigation a:hover {
+        color: gray;
+    }
+        
+        
+    
+
+    #image img{
+        width: 50%;
+        transform: translate(20px);
+        transform: scale();
+    }
+    body{
+        background-color: rgb(0, 255, 0);
+    }
+#main {
+    width: 1000px;
+    margin: auto;
+}
